@@ -42,4 +42,6 @@ if st.button("Predict"):
     st.write(result)
     
     st.write("Success!")
-    st.balloons() 
+    st.balloons()
+    st.snow()
+    
